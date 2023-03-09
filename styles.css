@@ -1,0 +1,36 @@
+body {
+    
+    background-color: #2E3840;
+
+}
+
+.dice-images {
+    margin-top: 12.25rem;
+    display: flex;
+    justify-content: center;
+    align-content:center ;
+    
+}
+
+h2 {
+    display: relative;
+    color: #30E3DF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#Title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    color: #30E3DF;
+    text-align: center;
+}
+
+
+.image-1 {
+    margin-right: 4rem;
+}
+
+
